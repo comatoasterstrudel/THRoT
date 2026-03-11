@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    {
+      "name": "ctDialogueBox",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/comatoasterstrudel/ctDialogueBox"
+    },
+    {
+      "name": "flixel",
+      "type": "haxelib",
+      "version": "6.1.0"
+    },
+    {
+      "name": "flixel-addons",
+      "type": "haxelib",
+      "version": "3.3.0"
+    },
+    {
+      "name": "hxcpp",
+      "type": "haxelib",
+      "version": "4.3.2"
+    },
+    {
+      "name": "hxcpp-debug-server",
+      "type": "haxelib",
+      "version": "1.2.4"
+    },
+    {
+      "name": "list",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "openfl",
+      "type": "haxelib",
+      "version": "9.4.1"
+    }
+  ]
+}
