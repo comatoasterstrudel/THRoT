@@ -28,11 +28,6 @@
       "version": "1.2.4"
     },
     {
-      "name": "list",
-      "type": "haxelib",
-      "version": null
-    },
-    {
       "name": "openfl",
       "type": "haxelib",
       "version": "9.4.1"
